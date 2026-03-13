@@ -71,7 +71,11 @@ https://www.linkedin.com/in/srinathavula/
 
 ## 🚀 Vision
 
-Sri Sai AI Tuitions aims to build a community where students can **learn AI, technology, and automation skills to prepare for the future digital world.**
+Sri Sai AI Tuitions is an online learning platform designed to help students explore modern technology through the power of Artificial Intelligence. Our mission is to make learning smarter, faster, and more accessible using AI tools, simple explanations, and practical examples. 🚀
+
+We focus on teaching AI tools for productivity, basic coding concepts, and the latest technology trends to help learners enhance their knowledge and develop future-ready skills. 💻✨
+
+Sri Sai AI Tuitions aims to build a strong learning community where students can learn AI, technology, and automation skills to prepare for the future digital world. 🌍📈
 
 ---
 
